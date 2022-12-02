@@ -1,4 +1,4 @@
-# Relay Workshop
+# Relay Workshop Project
 
 You are going to learn Relay and build a mini social network at the end of this workshop
 
